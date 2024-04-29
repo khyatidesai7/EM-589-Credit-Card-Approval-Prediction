@@ -1,0 +1,51 @@
+
+User Guide: Credit Card Approval Prediction
+
+This is the Credit Card Approval Prediction User Guide! This guide provides detailed instructions on how to use the Python script for the project The script includes functionalities for data cleaning, pre-processing, feature engineering, model training, evaluation, and visualization. Follow the steps below to utilize the script effectively:
+
+Step 1: Setup
+Install Dependencies:
+Ensure that Python is installed on your system along with the required libraries. You can install the necessary libraries using the following command:
+Copy code
+pip install scikit-learn imbalanced-learn pandas NumPy matplotlib seaborn XgBoost
+Download Data:
+Download the CSV files application_record.csv and credit_record.csv which contain the data for credit risk assessment.
+Step 2: Run the Script
+Locate the Script:
+Place the Python script in the same directory where you have saved the CSV files.
+
+Step 3: Review Output
+Console Output:
+The script will display various messages in the console indicating the progress of data processing, model training, and evaluation.
+You'll see accuracy scores, F1 scores, precision, recall, and confusion matrices for each machine learning algorithm used.
+
+
+
+
+
+Saved Visualizations:
+The script will have visualizations such as histograms, bar plots, box plots, pair plots, and correlation heatmaps in the directory.
+These visualizations provide insights into the data distribution, relationships between variables, and model performance.
+
+Step 4: Customize and Extend
+Modify Parameters:
+Review the script and modify parameters such as file paths, hyperparameters, and feature engineering techniques as per your requirements.
+You can adjust the algorithms used, feature selection methods, and data pre-processing steps based on your dataset and objectives.
+
+Extend Functionality:
+Feel free to extend the functionality of the script by adding more data processing tasks, exploring additional machine learning algorithms, or incorporating advanced techniques for feature engineering and model evaluation.
+
+Step 5: Interpret Results
+Model Performance:
+Evaluate the performance of different machine learning models based on accuracy, precision, recall, and F1 score.
+Compare the results to select the best-performing model for credit risk assessment.
+Data Insights:
+Gain insights into the dataset through visualizations and analysis.
+Identify patterns, correlations, and trends in the data to inform decision-making processes related to credit risk assessment.
+
+
+
+
+Step 6: Further Assistance
+If you encounter any issues or need further assistance, feel free to reach out for help. You can seek clarification on specific functionalities, data processing steps, or model evaluation techniques.
+
