@@ -1,4 +1,4 @@
-# Credit Card Prediction
+# Credit Card Approval Prediction
 
 ## Table of Contents
 1. [Overview](#overview)
