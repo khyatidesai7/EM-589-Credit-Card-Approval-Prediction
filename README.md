@@ -1,11 +1,21 @@
-```markdown
-# Credit-Card-Prediction
+# Credit Card Prediction
 
-## EM589 Project
+## Table of Contents
+1. [Overview](#overview)
+2. [EM589 Project](#em589-project)
+3. [Data Reading, Cleaning, Preprocessing, and Merging](#data-reading-cleaning-preprocessing-and-merging)
+4. [Feature Engineering](#feature-engineering)
+5. [Model Training and Evaluation](#model-training-and-evaluation)
+6. [Data Analysis and Visualization](#data-analysis-and-visualization)
+7. [Usage](#usage)
+8. [Kaggle Dataset](#kaggle-dataset)
+9. [Contributors](#contributors)
 
-### README
+## Overview
 
 This repository contains a Python script for a credit risk assessment project. The script includes data reading, cleaning, preprocessing, merging, feature engineering, model training, evaluation, and visualization steps. Below is a brief overview of each section:
+
+## EM589 Project
 
 ### Data Reading, Cleaning, Preprocessing, and Merging:
 
@@ -42,8 +52,10 @@ Note: Ensure to review and customize the script according to specific requiremen
 
 Feel free to reach out for any further assistance or clarification!
 
-### Kaggle: https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction
+### Kaggle Dataset
 
-### Contributors: Khyati Desai, Nisarg Shah, Rithvik HS, Jaswanth Kumar Mannava, Alekhyaa Nelluri
+[Kaggle Dataset](https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction)
 
-```
+### Contributors
+
+Contributors: Khyati Desai, Nisarg Shah, Rithvik HS, Jaswanth Kumar Mannava, Alekhyaa Nelluri
